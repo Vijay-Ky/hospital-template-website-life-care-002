@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Live Demo: https://vijay-ky.github.io/hospital-template-website-life-care-002/
 
 ## Other Useful Links
 
